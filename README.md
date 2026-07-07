@@ -64,18 +64,6 @@
 
 ---
 
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 💻 Building Projects • Solving Problems • Learning Every Day
 
 </div>
