@@ -6,6 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI+%26+ML+Projects;Learning+Deep+Learning;Exploring+Full+Stack+Development;Always+Learning+New+Things" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manishyadav526&label=Profile%20views&color=0e75b6&style=flat" alt="Manishyadav526" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manishyadav526" alt="Manishyadav526" /></a> </p>
 </div>
 
 ---
